@@ -1,4 +1,5 @@
 # RecycleHubApp
+Une application de gestion de recyclage qui connecte les particuliers aux collecteurs agréés.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
